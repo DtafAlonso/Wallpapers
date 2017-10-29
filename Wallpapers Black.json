@@ -1,0 +1,753 @@
+{
+  "wallpapers": [
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%208/Wallpaper%20(1).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 1", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 8"
+    }, 
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%208/Wallpaper%20(2).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 2",
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%208/Wallpaper%20(3).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 3",
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%208/Wallpaper%20(4).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 4",
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%208/Wallpaper%20(5).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 5",
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%208/Wallpaper%20(6).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 6",
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%208/Wallpaper%20(7).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 7",
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%208/Wallpaper%20(8).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 8",
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%208/Wallpaper%20(9).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 9",
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 8"
+    },	
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(01).jpg", 
+      "dimensions": "2880x2560", 
+      "name": "Wallpaper 10",
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },	
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(02).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 11",
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(03).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 12", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(04).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 13", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(05).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 14", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(06).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 15", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(07).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 16", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(08).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 17", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(09).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 18", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(10).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 19", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(11).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 20", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(12).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 21", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(13).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 22", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(14).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 23", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(15).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 24", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(16).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 25", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(17).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 26", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(18).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 27", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S8/Wallpaper%20(19).jpg", 
+      "dimensions": "2960x2960", 
+      "name": "Wallpaper 28", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S8"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%207/wallpaper%20(01).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 29", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%207/wallpaper%20(02).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 30", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 7"
+    },	
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%207/wallpaper%20(03).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 31", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%207/wallpaper%20(04).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 32", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%207/wallpaper%20(05).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 33", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%207/wallpaper%20(06).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 34", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%207/wallpaper%20(07).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 35", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%207/wallpaper%20(08).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 36", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%207/wallpaper%20(09).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 37", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(01).jpg", 
+      "dimensions": "2080x1920", 
+      "name": "Wallpaper 38", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(02).jpg", 
+      "dimensions": "2080x1920", 
+      "name": "Wallpaper 39", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(03).jpg", 
+      "dimensions": "2080x1920", 
+      "name": "Wallpaper 40", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(04).jpg", 
+      "dimensions": "2080x1920", 
+      "name": "Wallpaper 41", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(05).jpg", 
+      "dimensions": "2080x1920", 
+      "name": "Wallpaper 42", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(06).jpg", 
+      "dimensions": "2080x1920", 
+      "name": "Wallpaper 43", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(07).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 44", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(08).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 45", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(09).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 46", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(10).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 47", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(11).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 48", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(12).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 49", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(13).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 50", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(14).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 41", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(15).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 52", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(16).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 53", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(17).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 54", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(18).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 55", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S7/wallpaper%20(19).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 56", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(01).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 57", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(02).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 58", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(03).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 59", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(04).jpg", 
+      "dimensions": "2240x2240", 
+      "name": "Wallpaper 60", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(05).jpg", 
+      "dimensions": "1024x1024", 
+      "name": "Wallpaper 61", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(06).jpg", 
+      "dimensions": "1024x1024", 
+      "name": "Wallpaper 62", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(07).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 63", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(08).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 64", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(09).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 65", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(10).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 66", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20S6/wallpaper%20(11).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 67", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy S6"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20ON5/wallpaper%20(01).jpg", 
+      "dimensions": "1280x1280", 
+      "name": "Wallpaper 68", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy ON5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20ON5/wallpaper%20(02).jpg", 
+      "dimensions": "1280x1280", 
+      "name": "Wallpaper 69", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy ON5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20ON5/wallpaper%20(03).jpg", 
+      "dimensions": "1280x1280", 
+      "name": "Wallpaper 70", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy ON5"
+    },	
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20ON5/wallpaper%20(04).jpg", 
+      "dimensions": "1280x1280", 
+      "name": "Wallpaper 71", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy ON5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20ON5/wallpaper%20(05).jpg", 
+      "dimensions": "1280x1280", 
+      "name": "Wallpaper 72", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy ON5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%205/wallpaper%20(01).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 73", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%205/wallpaper%20(02).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 74", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%205/wallpaper%20(03).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 75", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%205/wallpaper%20(04).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 76", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%205/wallpaper%20(05).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 77", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20Note%205/wallpaper%20(06).jpg", 
+      "dimensions": "2560x2560", 
+      "name": "Wallpaper 78", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy Note 5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20C9/wallpaper%20(01).jpg", 
+      "dimensions": "1080x1920", 
+      "name": "Wallpaper 79", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy C9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20C9/wallpaper%20(02).jpg", 
+      "dimensions": "1080x1920", 
+      "name": "Wallpaper 80", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy C9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20C9/wallpaper%20(03).jpg", 
+      "dimensions": "1080x1920", 
+      "name": "Wallpaper 81", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy C9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20C9/wallpaper%20(04).jpg", 
+      "dimensions": "1080x1920", 
+      "name": "Wallpaper 82", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy C9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20C9/wallpaper%20(05).jpg", 
+      "dimensions": "1080x1920", 
+      "name": "Wallpaper 83", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy C9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20C9/wallpaper%20(06).jpg", 
+      "dimensions": "1080x1920", 
+      "name": "Wallpaper 84", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy C9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20C9/wallpaper%20(07).jpg", 
+      "dimensions": "1080x1920", 
+      "name": "Wallpaper 85", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy C9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20C9/wallpaper%20(08).jpg", 
+      "dimensions": "1080x1920", 
+      "name": "Wallpaper 86", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy C9"
+    },	
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20J7/wallpaper%20(01).jpg", 
+      "dimensions": "2048x1820", 
+      "name": "Wallpaper 87", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy J7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20J7/wallpaper%20(02).jpg", 
+      "dimensions": "2048x1820", 
+      "name": "Wallpaper 88", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy J7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20J7/wallpaper%20(03).jpg", 
+      "dimensions": "1920x1920", 
+      "name": "Wallpaper 89", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy J7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20J7/wallpaper%20(04).jpg", 
+      "dimensions": "1920x1920", 
+      "name": "Wallpaper 90", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy J7"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20A/wallpaper%20(01).jpg", 
+      "dimensions": "3020x3020", 
+      "name": "Wallpaper 91", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy A"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20A/wallpaper%20(02).jpg", 
+      "dimensions": "3020x3020", 
+      "name": "Wallpaper 92", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy A"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20A/wallpaper%20(03).jpg", 
+      "dimensions": "3020x3020", 
+      "name": "Wallpaper 93", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy A"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20A/wallpaper%20(04).jpg", 
+      "dimensions": "3020x3020", 
+      "name": "Wallpaper 94", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy A"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20A/wallpaper%20(05).jpg", 
+      "dimensions": "3020x3020", 
+      "name": "Wallpaper 95", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy A"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20A/wallpaper%20(06).jpg", 
+      "dimensions": "3020x3020", 
+      "name": "Wallpaper 96", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy A"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20A/wallpaper%20(07).jpg", 
+      "dimensions": "3020x3020", 
+      "name": "Wallpaper 97", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy A"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20A/wallpaper%20(08).jpg", 
+      "dimensions": "3020x3020", 
+      "name": "Wallpaper 98", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy A"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20A/wallpaper%20(09).jpg", 
+      "dimensions": "1920x1920", 
+      "name": "Wallpaper 99", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy A"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Galaxy%20A/wallpaper%20(10).jpg", 
+      "dimensions": "1920x1920", 
+      "name": "Wallpaper 100", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Galaxy A"
+    },	
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Web/wallpaper%20(01).jpg", 
+      "dimensions": "1080x1920", 
+      "name": "Wallpaper 101", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Web"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Web/wallpaper%20(02).jpg", 
+      "dimensions": "1920x1200", 
+      "name": "Wallpaper 102", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Web"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Web/wallpaper%20(03).jpg", 
+      "dimensions": "1920x1200", 
+      "name": "Wallpaper 103", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Web"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Web/wallpaper%20(04).jpg", 
+      "dimensions": "1920x1200", 
+      "name": "Wallpaper 104", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Web"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Web/wallpaper%20(05).jpg", 
+      "dimensions": "640x960", 
+      "name": "Wallpaper 105", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Web"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Web/wallpaper%20(06).jpg", 
+      "dimensions": "640x1136", 
+      "name": "Wallpaper 106", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Web"
+    },	
+    {
+      "url": "https://raw.githubusercontent.com/DtafAlonso/Wallpapers/master/Wallpapers/Web/wallpaper%20(07).jpg", 
+      "dimensions": "600x875", 
+      "name": "Wallpaper 107", 
+      "copyright": "Copyright \u00b8 2017 Samsung. All rights reserved.", 
+      "author": "Web"
+    }
+  ]
+}
